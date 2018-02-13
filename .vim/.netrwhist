@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/var/www/r.cicsnc.org/sites/all/modules/custom/formsrv_2'
+let g:netrw_dirhist_2='/snfs4/assessment/abuddenb/cmip3-downscaled-avg/dist/rutgers/fixed'
+let g:netrw_dirhist_3='/snfs4/assessment/abuddenb/loca-proc/.git'
+let g:netrw_dirhist_4='/snfs4/assessment/abuddenb/loca-proc/loca/test'
+let g:netrw_dirhist_5='/snfs4/assessment/abuddenb/loca-proc/loca'
+let g:netrw_dirhist_6='/snfs4/assessment/abuddenb/blocking-highs'
